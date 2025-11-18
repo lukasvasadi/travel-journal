@@ -27,7 +27,7 @@
 
 <style>
 	article {
-		max-inline-size: 95%;
+		max-inline-size: 100%;
 		margin-inline: auto;
 	}
 
