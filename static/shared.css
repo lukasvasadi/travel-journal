@@ -51,6 +51,11 @@ h6 {
 	font-family: var(--font-family-sans-heading), sans-serif;
 }
 
+/* Disable grey box on click in mobile browsers */
+a, button {
+    -webkit-tap-highlight-color: transparent;
+}
+
 .prose h2 {
 	font-variant: small-caps;
 	font-weight: 300;
