@@ -50,7 +50,7 @@ When Michelle and I arrived at Mong Cai, we entered the restaurant and saw one t
 
 Through several exchanges of Google translate, the owner explained that the restaurant was reservation only, but he could accommodate us if we were willing to wait 15 minutes. We sat at the nearest table and watched the man carry plate upon plate to the table in the corner. After all the courses had been delivered, he turned his attention to us.
 
-Minutes later we received two trays covered in small plates: a square block of egg, pickled mountain vegetables, oyster porridge, to name a few. The chef also set down a 
+Minutes later we received two trays covered in small plates: a square block of egg, pickled mountain vegetables, oyster porridge, to name a few. The chef also set down a
 
 ## Yamanouchi, Nagano Prefecture
 
@@ -94,7 +94,7 @@ At one point, while driving to Oshino, I was fiddling with the radio when Michel
 
 Instead of eating at a restaurant that night, Michelle and I decided to buy packaged sushi from a grocery store. Stopping on the way back to Jun’s, we wandered the aisles of the supermarket, inspecting all the unfamiliar labels, until we came upon the prepackaged food section. Even at this late hour, when all the remaining package lids had a label advertising 20 percent discount, we were paralyzed by our options. Selections of pork, beef, onigiri, ramen bowls, sashimi, spanning multiple tables. We exercised some self-control and only bought two sushis as well as a serving of pickled vegetables.
 
-Before leaving the supermarket, Michelle wanted to inspect the sweets section. I watched as she maneuvered across the aisle, bouncing back-and-forth in search of a specific chocolate Japanese treat—periodically getting distracted as her interest momentarily wavered. 
+Before leaving the supermarket, Michelle wanted to inspect the sweets section. I watched as she maneuvered across the aisle, bouncing back-and-forth in search of a specific chocolate Japanese treat—periodically getting distracted as her interest momentarily wavered.
 
 Back at the Airbnb resort, Jun prepared a hot bath for us as we unpacked from the day. Michelle and I stepped into the all-tile room, rinsed ourselves with the two shower head wands at the entrance, and slowly submerged into the steaming water. After a few moments, Michelle rose to open the sliding window and sat on the ledge with her feet in the water. Steam and hot air rolled out the window into the forest. After the bath, we drained the tub and made our way back to the room, where we sat on the tatami mat to eat sushi and watch a Studio Ghibli movie.
 
@@ -108,13 +108,13 @@ Ginza was reminiscent of a clean New York: fashionable and polished. Japanese me
 
 Before our trip, Michelle and I read Pico Iyer’s “A Beginner’s Guide to Japan,” which is more a social commentary than a literal travel guide. One of the central themes of the book was that the Japan is a land of contradiction. I found this to be an accurate depiction: everyone waited patiently at cross-walks, but businessmen and women would run across the street in suits to beat the light. The Japanese appreciate both a slow-paced kaiseki and a rushed precooked meal from 7-11.
 
-Our first evening in Tokyo, I convinced Michelle that we should wander around a neighborhood to find a restaurant with few tourists. 
+Our first evening in Tokyo, I convinced Michelle that we should wander around a neighborhood to find a restaurant with few tourists.
 
 ## Nara, Nara Prefecture
 
 Nara, the former Japanese capital and contemporary center of Zen Buddhism, was the location of our second ryokan, Okuyama Nara Kasuga Tsukihitei. The hotel was nestled deep within the forest beyond the deer park. When we arrived, we were treated with similar fanfare as at Tsutsuji-tei. Our attendant was a sweet, older woman, dressed in full kimono with a bandage wrapped around her left hand. She led us through the outdoor passageway to our room, and quickly we were ushered to dinner.
 
-Dinner was just as ornate and elaborate as our first kaiseki. Whenever the next course was ready, our attendant would 
+Dinner was just as ornate and elaborate as our first kaiseki. Whenever the next course was ready, our attendant would
 
 ## Kyoto, Kyoto Prefecture
 
@@ -140,12 +140,10 @@ Michelle directed me to the highway heading toward a cafe in the mountains. I ra
 
 As we exited onto a mountain highway, the roads became more serpentine with gradual changes in elevation. Everywhere, Michelle and I searched for a lot with enough space to give her a driving lesson, but, being a mountainous area in Japan, all the parking areas were too small or crowded.
 
-I heard the sound of the bumper grind against the asphalt, saw Michelle’s facial expression change suddenly, and felt my heart sink. 
+I heard the sound of the bumper grind against the asphalt, saw Michelle’s facial expression change suddenly, and felt my heart sink.
 
 ## Kobe, Hyōgo Prefecture
 
 ## Ueno, Tokyo
 
-On our last full day in Japan, Michelle and I walked to the Ueno Zoo in the nearby park. We arrived half an hour after opening and were bombarded with an hour-long queue for the two panda exhibits. 
-
-
+On our last full day in Japan, Michelle and I walked to the Ueno Zoo in the nearby park. We arrived half an hour after opening and were bombarded with an hour-long queue for the two panda exhibits.

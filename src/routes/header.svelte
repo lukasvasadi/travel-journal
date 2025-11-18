@@ -9,16 +9,16 @@
 </header>
 
 <style>
-		header {
-        /*position: sticky;*/
-        top: 0;
-        height: fit-content;
-				width: 100%;
-				margin-bottom: 2rem;
-				padding-inline: 1rem;
-				background-color: var(--background-color);
-        border-bottom: 2px solid var(--border-color);
-		}
+	header {
+		/*position: sticky;*/
+		top: 0;
+		height: fit-content;
+		width: 100%;
+		margin-bottom: 2rem;
+		padding-inline: 1rem;
+		background-color: var(--background-color);
+		border-bottom: 2px solid var(--border-color);
+	}
 
 	nav {
 		padding-block: 2rem;

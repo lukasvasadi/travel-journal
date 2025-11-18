@@ -18,7 +18,6 @@ gear. The next morning, we attached the gear to our bikes and
 started for the train station, winding through the narrow,
 brick-paved streets of Cambridge.
 
-
 The train brought us to King's Cross, where we walked next-door to
 St. Pancras Station. We boarded the next train to Canterbury, the
 old English capital of the Catholic Church, famous for religious
@@ -26,24 +25,20 @@ pilgrimages during the Middle Ages. Our plan was to loosely follow
 the EuroVelo 5 cycling route from Canterbury to the coastal Italian
 city of Brindisi, ending the trip early at Milan.
 
-
 Weaving through crowds of people on the cobbled streets, we made our
 way to a pub in the center of town. We sat outside under a roof of
 grape vines, overlooking the river, and had meat pies with beer.
 “This might be our last decent meal for a few days,” said Bret.
-
 
 At five o'clock, we returned to the bikes, which were chained
 together behind a shop, to start the journey. Bret led with the GPS
 on his phone. Our first goal was to ride to Dover for the ferry to
 Calais by the next afternoon.
 
-
 The roads leaving Canterbury were mostly unpaved and difficult to
 traverse with the heavy gear. Eventually, we reached the countryside
 with well-maintained roads and cycled past 18th century cottages
 boasting BMWs and Aston Martins out front.
-
 
 After the sun set, we continued with Bret's headlight for another
 few miles, but once it started to drizzle, we decided to find a
@@ -51,11 +46,9 @@ place to set up camp. A few miles farther, we found a walking trail
 around a bend in the road with a trail that led into the dark
 forest.
 
-
 The wind started to pick up. Bret and I walked into the woods, found
 a clearing, and set up the tent for the very first time. Bad idea.
 Darkness, wind blowing, light rain, an unfamiliar place.
-
 
 After twenty minutes of fumbling, we managed to erect the tent and
 climbed inside with our bags tucked underneath the side flaps. We
@@ -72,19 +65,15 @@ against the side of the tent, brushing up against my face.
 After several minutes of quiet, we both fell back asleep. Then,
 abruptly, Bret startles and sits up in his sleeping bag.
 
-
 “Luke, the dog's back. I just felt him push against my side of the
 tent.”
-
 
 Somehow, we managed to fall asleep again, and this time didn't wake
 till morning.
 
-
 Back on the road with rolling hills and green pastures. As we neared
 Dover, though, the roads became increasingly steeper. Was this still
 England, I wondered? The rain got heavier. Still England.
-
 
 Before boarding the ferry, we chained our bikes and climbed the
 cliffs to look out across the Channel. stopped to look out over the
@@ -99,12 +88,10 @@ Calais was not how you imagine the French countryside. Most of the
 buildings surrounding the harbor were cement cubes. It looked
 depressing in the rain.
 
-
 We cycled down a ramp from the boat and followed a patrol car to the
 exit. Within a few minutes we were riding alongside farmland. The
 sun began to set, but we were low on food. Fortunately, an Aldi
 appeared, and we bought food minutes before closing.
-
 
 “Can customers use the restroom?” I asked the cashier in French.
 
@@ -117,7 +104,6 @@ Instantly, my hand went numb. Here I was stranded in rural France,
 crouching in a field behind a supermarket with a numb hand. How many
 days were left?
 
-
 Bret and I figured that if we averaged 50 miles per day, we would
 reach Milan in approximately three weeks, obviously counting several
 rest days. That first day in France we covered over 40 miles before
@@ -127,7 +113,6 @@ the sun set.
 “Are there any close by on the map?”
 
 “Up ahead there is some kind of national park with a few options.”
-
 
 Signs appeared with the symbol of a camping tent, which we followed
 down random streets to a white house.
@@ -148,21 +133,16 @@ front door but keeping the screen shut between them. Bret asked
 about renting a campsite using slow English. The man responded in
 French, waved his hands in the air, and retreated inside.
 
-
 “Guess this isn't a campsite,” Bret said, grinning. “What should we
 do?”
-
 
 “I think our only option is to set up camp on one of the surrounding
 farms, but we should move fast because the rain might pick up.”
 
-
 “None of these farms have any cover. Passing cars would easily spot
 us from the road.”
 
-
 “We'll find something. After all, this was the plan from the start.”
-
 
 A short distance away I spotted a dirt road with a tall embankment.
 
@@ -172,12 +152,10 @@ A short distance away I spotted a dirt road with a tall embankment.
 “I don't think cars would be able to see us. Plus, no one will be
 looking closely in the middle of the night.”
 
-
 We pushed the bikes to the top of the embankment and walked on the
 uneven dirt to the far corner of the plot. Off in the distance were
 spotlights shining over a barn and tractor. Quickly, we pitched the
 tent and threw our panniers underneath the rain trap.
-
 
 “Bret, can you throw me some of the toilet paper you took before?”
 
@@ -205,20 +183,16 @@ jar. Two hours of cycling brought us to the city of Saint Omer.
 Stopping in the town center, we reorganized our gear and, being too
 early for cafes, ate some peanut butter.
 
-
 We reached the next town at ten o'clock with empty stomachs. We
 locked the bikes in the main square and walked around to the nearby
 cafes, which were all still closed.
 
-
 “I know the French are laid-back,” I said, “but don't people need to
 eat?”
-
 
 “Google says that restaurants won't open till noon, but if we stay
 that long we won't reach our fifty miles before nightfall,” said
 Bret.
-
 
 “I'm starving and all we have left is peanut butter. How far is the
 next town?”
@@ -230,7 +204,6 @@ toward the French-Belgium border. Before reaching the next town, we
 spotted a few restaurant franchises, including a McDonald's, along
 the highway. We stopped, bought some discounted pizzas, refilled our
 bottles, and sat in the shade.
-
 
 “Maybe we should pick a campsite at the beginning of the day,” said
 Bret.
@@ -244,7 +217,6 @@ far enough from the highway to dull the sound of passing cars. We
 were also relieved to find a relatively even surface to set up the
 tent.
 
-
 By our third attempt, Bret and I had become experts at setting up
 camp. We each had jobs for the tent, which took less than five
 minutes to assemble. Gear was reorganized and tucked underneath the
@@ -256,13 +228,11 @@ with sunlight remaining for Bret to shoot photography.
 “It's still numb, but I've recovered some feeling in my thumb and
 index finger.
 
-
 I think some of the nettles got lodged underneath my skin,” I said.
 
 “Does it bother you on the bike?”
 
 “No not really. I think it'll be fine by tomorrow or the next day.”
-
 
 At last, the next day we found our rhythm. From that point on there
 were only clear skies. We settled into a comfortable routine: wake
@@ -272,7 +242,6 @@ twenty to thirty miles to the “campsite.” We took short breaks
 whenever we felt tired, and usually stopped at a grocery store to
 restock once per day.
 
-
 We were also able to veer off the highway onto country roads. Cars
 became infrequent and the views unbeatable: rolling hills of
 farmland with horses and grazing cattle. Some downhills sloped for a
@@ -281,13 +250,11 @@ miles per hour. We learned how to tune the bikes and pack our gear
 so that important items were easily accessible, and nothing slipped
 on bumpy roads.
 
-
 On this day, the GPS led through a kind of nature reserve. We cycled
 along dirt and rock trails that passed under tree canopies of
 intense green. I felt strong, standing on the pedals while we turned
 onto a paved road and started climbing another hill. We swapped
 leaders so that Bret could rest in my slipstream.
-
 
 The next few miles stretched through farmland with intermittent
 countryside towns. All the streets were quiet, we hardly saw a
@@ -295,7 +262,6 @@ single person walking. Up ahead we saw a sign with “Strawberries”
 written in French. We looked at each other, and without a single
 word spoken, turned around and headed down the side street for the
 fruit stand.
-
 
 The sign had instructions, which were practically useless for us.
 After a mile we couldn't find any kind of fruit stand and decided to
@@ -305,13 +271,11 @@ with a plastic spoon leftover from a previous meal. I think I washed
 it by licking it clean. I finished and wiped the chocolate from my
 face with my bare arm.
 
-
 The next town was the last before the Belgian border. There seemed
 to be more activity in this town, as well as a restaurant and tavern
 in the center. We entered, said hello, and asked for the menu in
 French. The waitress flashed a look of confusion and motioned for us
 to follow her. No one spoke any English.
-
 
 We sat outside under an umbrella at noon. Around the seating area
 was farm equipment and a worn-out tractor.
@@ -335,7 +299,6 @@ directed us onto a path that ran alongside a canal. Over the next
 few miles, we saw a few cyclists and cows, but Bret and I were
 mostly alone.
 
-
 The canal led us directly to Mons, a small historic city made
 entirely of grey stone, including the streets. There was not one
 patch of grass and it looked as if the streets and buildings had
@@ -346,7 +309,6 @@ third attempt, we found a hotel with an available room and who was
 willing to store our bikes in a utility room across from the
 kitchen.
 
-
 Our first showers since Cambridge. We rinsed our clothes in the sink
 and hung them around the bathroom to dry overnight. Then we walked
 around the city, which was filled with bars and food trucks,
@@ -355,14 +317,12 @@ decided to eat at a Chinese restaurant before returning back to the
 hotel. In the morning, we collected our bikes, found a bagel shop,
 bought some chocolates, and departed for the road.
 
-
 The cobbled streets continued through miles of corn fields. Bret
 bungeed his second pair of bike shorts—still damp—to his panniers to
 help them air dry. Our routine continued: between 10 and 20 miles,
 we stopped for coffee; around midday we took an extended lunch
 break; close to evening we located a grocery store to restock.
 Setting up camp was easy once we found a suitable campsite.
-
 
 Our next major stop was Luxembourg City, which happened to also be
 plagued by steep roads. The city is pitched on a mountain and
@@ -382,15 +342,12 @@ had plans to camp outside the city to make up some distance. Once we
 were a few miles away from the city, Bret pulled off to the side of
 the road and started rummaging in his pack.
 
-
 “Are you going to fly the drone? I'm surprised you didn't shoot any
 video in the city,” I said.
-
 
 “All these countries have different drone laws. Most places won't
 let you fly around major public areas. I think Belgium and
 Luxembourg have strict policies.”
-
 
 He launched the drone and started down the road, looking at the
 controls on his phone. I took the opportunity to call a friend from
@@ -401,7 +358,6 @@ and caught Bret frozen with drone in hand. I think in that moment
 Bret completely shit himself, but the cop continued past us without
 so much as an inquisitive look.
 
-
 As the sun was setting, we searched for someplace to camp that would
 provide enough cover from drivers. We eventually settled on a
 clearing in the forest that was about 50 yards from the road. Other
@@ -410,13 +366,10 @@ canopy. We cleared an area on the ground for the tent—removing all
 the sticks and large rocks. Bret noticed a small log cabin concealed
 in the woods about 100 yards away.
 
-
 “We should leave real early in case those people wake up,” he said.
-
 
 “I don't think they would see us, and if so, I doubt they'd care
 much.”
-
 
 Back on the road, we followed a canal that led across the German
 border. For hours, we stayed on a paved pathway that ran alongside
@@ -440,7 +393,6 @@ much weight onto the handlebars.”
 topical treatment from a pharmacy. How about we go in the morning
 before heading out?”
 
-
 That evening, we repeated our laundry routine: rinsing our clothes
 in the sink and hanging them all over the bathroom to dry. In the
 morning, we quickly packed and searched for a pharmacy in Google
@@ -450,13 +402,11 @@ our panniers onto the rear support frame, we hopped onto the bikes
 and rode down the street to the pharmacy. Bret stayed to watch the
 bikes outside.
 
-
 Entering the pharmacy, I walked to the front and greeted the woman
 at the counter. Immediately, she understood that my German was
 limited and, after I tried explaining the situation by motioning to
 my hand, she went into the back and retrieved an older man who,
 presumably, ran the shop.
-
 
 Even though he only spoke a few words in English, with the help of
 Google, I managed to translate some key phrases—bike, injury to the
@@ -464,7 +414,6 @@ hand, numbness—and he seemed to understand enough to give me a
 topical cream with a painkiller. He tried to warn me to be
 careful—that the painkiller would help with the sensation but that I
 should see a doctor.
-
 
 Our next destination was Strasbourg, a French-German city that is
 apparently known as one of the major centers for European political
@@ -474,7 +423,6 @@ fatigue, but one where my body seemed to accept the daily
 punishment. I was confident that Bret and I could maintain our daily
 mileage of 50-60 miles, though the mountainous roads in Switzerland
 loomed in the back of my mind.
-
 
 From the road, we turned onto a narrow walkway that cut through
 acres of farmland. Horses looked up to stare at us while the cows
@@ -488,10 +436,8 @@ night. We road over to the end of one of the fields and set up the
 tent alongside a row of trees. People who were walking their dogs on
 the path looked over to stare at us.
 
-
 After setting up camp, Bret walked around the field with his drone,
 and I sat to watch other people walk past.
-
 
 “How does your hand feel today? Any improvement with the stuff from
 the pharmacy?” Bret asked when we were inside the tent.
@@ -502,10 +448,8 @@ the pharmacy?” Bret asked when we were inside the tent.
 “How the hell are we going to manage to find a doctor who can
 understand us?”
 
-
 “Doctors are well educated people. I'm sure we can find one who
 speaks a little English.”
-
 
 Despite my reluctance, I knew Bret was right and that the numbness
 probably wasn't related to the nettles I had grabbed at the start of
@@ -525,7 +469,6 @@ restaurant that served crêpes, which we ate with coffee seated at a
 small table outside. Then we retrieved the bikes and followed signs
 for the Hôpital Civil.
 
-
 Somehow in this large hospital lobby we located the nursing station.
 
 “Excuse me,” I said in French. “Do you speak any English?”
@@ -538,14 +481,12 @@ walked over, spoke briefly to the first nurse, then looked at us and
 started listing languages: “French?” We shook our heads. “German?”
 No. “Italian?” No. “Española?”
 
-
 “Spanish!” exclaimed Bret. “Yes, we speak a little Spanish.” The
 nurse looked excited and motioned over yet another colleague, one
 who presumably spoke Spanish. Once again, the nurses explained the
 situation to the newcomer, who proceeded to look at Bret and I and
 fire off a montage of Spanish. As she spoke, she pointed along the
 corridor and motioned the directions.
-
 
 Bret and I were dumbfounded. The nurse, seeing our expressions,
 turned to her colleagues, and said, “No habla espanol.”
@@ -557,24 +498,19 @@ emergency center next door. This ended up being the highlight of our
 day because the nurse at the reception was a total knockout. For the
 first time, I considered this hand injury a stroke of good fortune.
 
-
 “You believe this?” said Bret after we tried to explain the
 situation. “She's even sexier not knowing any English.”
-
 
 “I don't want to leave this place,” I said. Just then, the head
 nurse appeared, and we lost our muse to the next patient inline.
 Yet, just as our disappointment reached new heights, we learned that
 this nurse understood English.
 
-
 “Please excuse me, I haven't spoken English since I learned it in
 school,” said the nurse.
 
-
 “You speak very well,” I said. “Better than our French
 or...Spanish.”
-
 
 After learning about my injury, the nurse directed us to an
 orthopedic hospital that was located on the city outskirts. She went
@@ -583,20 +519,17 @@ followed her instructions to the hospital, our first time using a
 printed map in years. The path followed another canal that led
 outside the city.
 
-
 The orthopedic hospital looked like an abandoned warehouse. There
 were barely any cars in the parking lot, no reception at the
 entrance, and the hallway was dimly lit. We kept walking down the
 hallway and eventually pushed through a set of doors to the waiting
 room, full of very depressed-looking people.
 
-
 The nursing station was enclosed in clear acrylic panels. The nurse
 sitting at the desk understood about ten words in English, as I
 understood about ten words in French, but, somehow, we managed to
 piece together my symptoms. She was very kind and patient—it didn't
 matter that I was a foreigner.
-
 
 A few minutes later, the doctor entered the waiting room and
 motioned to me. Bret and I walked to the patient room while the rest
@@ -606,14 +539,11 @@ repeated the words “hand” and “bike” in French while pointing to my
 right palm. He took my hand, examined it, and sent me to another
 room for X-rays.
 
-
 “You cannot bike anymore,” he said in English, waving his hands. “If
 you continue, the damage may become permanent.”
 
-
 “Is there anything I could do to reduce the pressure and continue
 cycling?”
-
 
 “No. If you continue, it will get worse. It's already possible that
 you don't recover all of the feeling.”
@@ -625,7 +555,6 @@ Damn. I had expected this prognosis, but I felt bad for Bret: no
 matter how much I insisted, I knew he would refuse to go on without
 me.
 
-
 As we were leaving the hospital, the nurse approached us: “Doctor
 said to rest hand,” she said while pointing to her hand. “Here is
 document of treatment.”
@@ -635,14 +564,11 @@ document of treatment.”
 “Bill will be sent to your address,” she said. She looked away then
 back: “Maybe it will, maybe it won't.”
 
-
 “No wonder why the European healthcare system is failing,” said Bret
 once we were outside.
 
-
 “What should we do now? You can't ride to the hostel that we
 reserved for tonight.”
-
 
 “Go on without me,” I said, dead serious. “I'll find a way to sell
 the bike and catch up to you.”
@@ -675,7 +601,6 @@ the view. I used to come here for summer camps as a kid.”
 “No, it's my parents' home. I just left university to start an
 environmental sustainability program in the Philippines.”
 
-
 “Well, we might be here until we figure out our next move,” said
 Bret. “Maybe we could meet up tomorrow?”
 
@@ -692,28 +617,23 @@ courtyard where a group of kids were gathered around a fire pit. In
 the circle was a counselor, about our age, who played guitar while
 the kids sang a German campfire song.
 
-
 “What we need to do is find a bike shop,” I said in the morning.
 “They would at least know how to ship bikes and can probably give us
 boxes in the correct size.”
 
-
 “I think we should first find a post office,” said Bret. “They would
 know more about shipping large packages between countries.”
-
 
 We checked Google Maps and, to our surprise, found a post office and
 bike shop next-door to one another, about a mile from the hostel. We
 locked our gear in one of the castle spires and rode down the
 mountain to the town, zigzagging along the jagged road.
 
-
 When we arrived, all we saw was the front door to the bike shop. But
 when we entered, we saw a post office counter stuffed away in the
 back corner of the store. A woman stood at the counter while her
 coworker, presumably, was speaking to a customer interested in one
 of the bikes.
-
 
 “Excuse me,” I said to the woman. “Are you able to ship bikes
 internationally?”
@@ -723,21 +643,17 @@ internationally?”
 When the salesman finished, he turned toward us. “I see we have some
 Brits in town,” he said.
 
-
 “We're actually American,” I said. “We're on a bike trip across
 Europe, with our destination being Milan.”
 
-
 “Americans? You're far from home. I'm surprised you're here and not
 building that wall above Mexico.”
-
 
 Bret and I laughed and then introduced ourselves. The man was named
 Barney and the woman behind the counter was his wife. What were the
 chances that someone would open a shop for both bikes and post? I
 explained our situation and asked if we could ship the bikes to the
 UK or US.
-
 
 “The UK is fine,” said Barney. “Only problem is that I only have one
 leftover box. You'll have to find another box large enough to fit
@@ -747,14 +663,11 @@ the bike but not exceed the dimensional limit.”
 
 “Not in Ortenberg. You have to go over to the next town, Offenburg.”
 
-
 “I'll get another box,” Bret said, turning to me. “You stay here,
 take apart your bike and package it.”
 
-
 With that settled, I had to ask Barney one more question: “Barney,
 why did you open a post office inside your bike shop?”
-
 
 Barney laughed. “My business started to slow once online shopping
 became popular, so we opened up a post office to draw in people.
@@ -765,7 +678,6 @@ I'm able to chat with them.”
 
 “And good-looking too. My wife is lucky.” He smiled at her, but she
 didn't understand what he said.
-
 
 Bret cycled to Offenburg while I disassembled my bike in the lot
 behind Barney's store. Barney lent me some tools. I layered the
@@ -780,7 +692,6 @@ cycling with one hand while dragging the box along the ground.
 the bike. He said to ride with the thing hanging off the back.
 People gave me some weird looks.”
 
-
 We packed Bret's bike, paid Barney €150, and threw the boxes onto a
 mail truck just as it started to rain.
 
@@ -790,11 +701,9 @@ mail truck just as it started to rain.
 “I think it'd be weird asking her to let two strangers stay at her
 place.”
 
-
 “I don't think we have many options. The hostel doesn't have any
 rooms available tonight. Either we crash with her or camp in the
 rain.”
-
 
 Bret messaged K. and, fortunately, she agreed to let us stay the
 night—the catch being we had to meet her in half an hour at the
@@ -812,7 +721,6 @@ We started jogging up the mountain.
 “It's our best chance. I don't think she'll wait if we're running
 late.”
 
-
 We grabbed our bags from the castle, returned the key, and ran back
 down to the street. Once we reached the town center, Bret turned to
 face the oncoming traffic and stuck out his thumb. It only took
@@ -820,10 +728,8 @@ about five minutes before a car pulled off onto the sidewalk. When
 we opened the back door, the driver started speaking to us in
 German.
 
-
 “Do you know English?” I asked. He stared at us blankly through the
 rearview mirror.
-
 
 “Train station?” Bret said. He nodded, we sat down, and he started
 driving away. Within ten minutes we reached Offenburg. Our driver
@@ -840,7 +746,6 @@ We stood there looking in all directions for several minutes until
 we noticed someone waving at us from up the road. We walked over to
 the car to meet K. and her friend, M., both of whom spoke excellent
 English.
-
 
 The plan was to stop at a supermarket along the way for groceries to
 cook at K.'s house. M. was an engineering student studying renewable
@@ -875,7 +780,6 @@ ahead and decided to slow down, exit the highway, and switch back
 with K., who proceeded to drive the rest of the way to the
 supermarket.
 
-
 “Have you ever heard of flame pie?” M. asked upon entering the
 store.
 
@@ -892,7 +796,6 @@ white wine. K. and M. cooked while Bret and I each showered. We
 shared stories over pizza and drank all the wine. We started
 laughing as if the four of us had been friends for a long time.
 
-
 In the morning, Bret and I collected our bags and said goodbye. We
 took a bus to the train station where we bought tickets to Milan.
 The train wound through the parts of Switzerland that had been part
@@ -908,7 +811,6 @@ was to ponder the many changes of our journey.
 Europe, I think my next trip will be somewhere different, maybe Asia
 or South America.”
 
-
 After passing Zurich, we fell asleep for the last hour before
 arriving in Milan.
 
@@ -921,12 +823,10 @@ man, wearing a sleeveless shirt and gold chain, with slicked-back
 hair and a frown that spread across his whole face, sat at the
 reception. He checked our reservation and handed us the key.
 
-
 After we placed our bags on the bunk beds in the shared room, Bret
 and I headed to the main square with the Duomo di Milano. The square
 was filled with people and street performers, and when the sun set,
 the entire city became lit by streetlamps.
-
 
 We headed down one of the side streets to find somewhere to eat. As
 we passed various restaurants, hosts would approach us from the
@@ -936,13 +836,11 @@ encounters felt a bit aggressive. Eventually we discovered an
 affordable option with outdoor seating, where we ordered, of all
 things, wine and pasta.
 
-
 In the morning, Bret left to shoot photos of the city while I
 retrieved the rental car. The cheapest option we could find was a
 black, four-door Smart car, about the size of a small SUV in the
 States. I maneuvered through the city to our hostel, where Bret was
 waiting outside with the bags.
-
 
 Our first destination east would be Verona, the city famous for
 being the home of the characters who inspired Romeo &amp; Juliet.
@@ -950,12 +848,10 @@ Though tiny, Verona had its own coliseum with mascot-esque
 gladiators standing outside to pose for pictures, similar to the
 Sesame Street characters in Times Square.
 
-
 Bret and I walked through the crowded streets searching for Juliet's
 balcony, which ended up being hidden in a courtyard with a huge mass
 of people shuffling their way through the entrance. The walls of the
 passageway were graffitied with the names of hundreds of lovers.
-
 
 Our next stop was Lake Garda at the foot of the Dolomites. Swimming
 in the lake felt calming, with the massive bodies of mountains
@@ -966,7 +862,6 @@ the makeshift stone docks that protruded into the water. Bret flew
 the drone while I surveyed the area: there were a bunch of families
 nearby, as well as one older couple in the nude.
 
-
 With the night approaching, Bret and I decided to search for a place
 to camp. I turned onto a switchback road that climbed one of the
 mountains, with the engine struggling against the incline. Despite
@@ -975,14 +870,12 @@ from the road. In the end, we decided to sleep in the car, parked
 along the shoulder with a great view of the lake. Dinner was peanut
 butter with bread and fruit.
 
-
 Feeling cramped, halfway through the night I left the car and
 chanced sleeping along the roadside. In the morning, we drove down
 the mountain into one of the villages, stopped for groceries, and
 continued to the country roads leading to Venice. For most of the
 trip, our view was primarily sun-bleached farms. Bret searched for
 hostels with open beds.
-
 
 Since the car wasn't allowed in the city, we found parking along the
 outskirts and trained to the walking bridge that served the main
@@ -994,13 +887,11 @@ haphazardly, with random buildings joined together and slanting into
 the narrow alleyways. Even the interior of the hostel appeared to be
 a hodgepodge of different designs.
 
-
 That night, Bret and I shared a room with two young eastern Asian
 women. Not too many words were exchanged—the two were friends
 touring Italy like Bret and myself. Once again, Bret left early to
 photograph the Bridge of Sighs before the crowds amassed. Similarly,
 I wanted to see St. Mark's Square.
-
 
 On the way, I stopped at a café and ordered a croissant egg
 sandwich. For whatever reason, I decided to take a picture of the
@@ -1009,13 +900,11 @@ raised the sandwich in the air, a bird swooped down and grabbed it
 from my hand. As the sandwich fell apart in midair, flocks of birds
 swarmed the ground and, within moments, my breakfast disappeared.
 
-
 Later that day, Bret and I wandered over to Liberia Acqua Alta, a
 bookshop which once had its entire inventory damaged during a flood.
 To prevent a second catastrophe, the shop owners placed all the
 books inside tubs and basins, or crates lifted from the ground.
 Stray cats roamed the floor and shelves.
-
 
 We left Venice and entered Slovenia en route to Lake Bled. Nighttime
 arrived as we swerved along the winding roads searching for a hotel
@@ -1024,7 +913,6 @@ that led deep into the woods. With no better option, we turned onto
 the unpaved road and drove between tall trees until the forest
 opened to unveil a riverbank.
 
-
 With the moonlight, we could see the fast-flowing, shallow river, a
 cliff rising from the other bank, and the shale rock that comprised
 the beach. In the altitude, the temperature had dropped to near zero
@@ -1032,11 +920,9 @@ degrees. Bret and I reclined the front seats and awkwardly wrapped
 ourselves in the sleeping bags, which barely helped protect us from
 the cold.
 
-
 Despite having barely slept, Bret and I welcomed the rising sun a
 few hours later. We started the car and blasted the heat, then
 returned to the main road and drove another hour to Lake Bled.
-
 
 We had coffees at a small café situated on one end of the lake. In
 the middle of the lake was a small island with a castle. We hiked
@@ -1044,13 +930,11 @@ one of the nearby trails to a lookout over the mountains. Bret flew
 the drone and caught a picture of a hot air balloon floating above
 the castle.
 
-
 In the afternoon, Bret and I returned to the lakeshore and stripped
 down to our running shorts. We waded into the water and swam out to
 the island. A tourist boat passed nearby, and the occupants looked
 over to inspect us. Bret and I briefly walked around the island, but
 the cold breeze motivated us to return to shore.
-
 
 Once dry and clothed, we walked over to the car and decided to drive
 to Ljubljana for dinner.
