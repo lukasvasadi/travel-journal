@@ -1,6 +1,6 @@
 import { mdsvex } from 'mdsvex'
 import { vitePreprocess } from '@sveltejs/vite-plugin-svelte'
-import adapter from '@sveltejs/adapter-auto'
+import adapter from '@sveltejs/adapter-vercel'
 
 // Markdown enhanced image library @ https://github.com/lzinga/mdsvex-enhanced-images
 // import enhancedImage from '@lzinga/mdsvex-enhanced-images'
