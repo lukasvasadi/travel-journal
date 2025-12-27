@@ -1,4 +1,5 @@
 <script>
+	import '../app.css'
 	import Header from './header.svelte'
 	import Footer from './footer.svelte'
 	let { children } = $props()
