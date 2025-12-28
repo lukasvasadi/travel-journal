@@ -10,7 +10,8 @@
 
 <style>
 	header {
-		/*position: sticky;*/
+		position: sticky;
+		z-index: 1;
 		top: 0;
 		height: fit-content;
 		width: 100%;
