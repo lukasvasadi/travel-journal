@@ -59,9 +59,9 @@
 		color: var(--text-color-subheading);
 	}
 
-	@media (min-width: 960px) {
+	@media (min-width: 600px) {
 		.post {
-			max-inline-size: 600px;
+			max-inline-size: 700px;
 		}
 	}
 </style>
