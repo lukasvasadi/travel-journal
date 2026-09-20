@@ -44,7 +44,7 @@
 
 	.title {
 		font-size: clamp(2rem, 9vw, 3.5rem);
-		font-family: 'Lato', sans-serif;
+		font-family: 'Playfair Display', sans-serif;
 		/*text-transform: capitalize;*/
 	}
 
