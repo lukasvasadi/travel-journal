@@ -28,7 +28,7 @@ body {
 	font-size: 18px;
 	font-weight: 400;
 	font-family: var(--font-family-sans), sans-serif;
-	line-height: 1.4;
+	line-height: 1.5;
 }
 
 @media (min-width: 600px) {
