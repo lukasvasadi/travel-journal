@@ -2,11 +2,11 @@
 title: Circling Iceland
 description: Taking one last look out the window at the creek, I shifted the Explorer into first and accelerated through the mud and up the loose stones to climb onto the bridge.
 date: '2023-06-10'
-image: /images/processed/europe/iceland-720.jpg
+image: europe/iceland.jpg
 published: true
 ---
 
-![Grand Canyon inner canyon](/images/processed/europe/iceland-720.jpg)
+![Grand Canyon inner canyon](../lib/images/europe/iceland.jpg)
 
 As we pulled away from the Blue Lagoon, headed toward a small fishing town, I could feel the atmosphere dim. Being this far north, there were still several daylight hours remaining, but the beginnings of dawn mixed with the grey clouds to produce a solemness over the barren land.
 
@@ -18,7 +18,7 @@ It was raining when we first woke. I could barely see through the droplets on th
 
 Driving along the ring road, we came upon a tall waterfall, Gljúfrabúi, on the left. We pulled into the nearby parking lot, which was starting to fill with jeeps and campers, and walked into the drizzle and mist floating from the base. Following a wet bouldering path, we were able to climb behind the waterfall, protected overhead from a protrusion of mountain. We left with some warm coffee and sandwiches from a food stand.
 
-![Standing underneath Gljúfrabúi waterfall](/images/processed/europe/iceland-gljufrabui-waterfall.jpg)
+![Standing underneath Gljúfrabúi waterfall](../lib/images/europe/iceland-gljufrabui-waterfall.jpg)
 
 Our next stop was one of the most spectacular sights of the trip. Pulling onto a random dirt road, we drove to within 300 yards of the Sólheimajökull glacier. This massive block of ice is near the southernmost tip of Iceland. It occupies a valley that terminates in a vibrant blue lake filled with chunks of floating ice. Bret picked a piece of ice from the water and started eating it.
 
@@ -54,7 +54,7 @@ The road became unpaved with a steep incline. Though not as exposed, the wind gu
 
 By noon, it was obvious that the winds were dying down. The sun gave way to clouds and drizzle as we arrived at the vibrant green Fjadrargljufur canyon. The sites were beautiful, but visitors were only allowed to walk on a designated path to protect the surrounding nature. We soon made our way to lunch and then continued northwest through the snowy mountainscape.
 
-![Fjadrargljufur Canyon intersecting streams](/images/processed/europe/iceland-fjadrargljufur-streams.jpg)
+![Fjadrargljufur Canyon intersecting streams](../lib/images/europe/iceland-fjadrargljufur-streams.jpg)
 
 At one point we crossed a dam and climbed an icy road to a dead end. Off to the right were two gravel side roads that led away from the highway. One of these roads was marked closed with a chain, but the other was open. Shantanu turned onto the road and drove down a hill into the mountainous valley.
 
@@ -74,11 +74,11 @@ Bret and Shantanu went to the back of the SUV to push, while I bottomed out the 
 
 I looked back in the side mirror and saw Bret and Shantanu celebrating. They jogged to the car and we continued along the flat dirt road till we reached the terminus and found a paved highway.
 
-![Jokulsargljufur Canyon basalt](/images/processed/europe/iceland-valley-explorer.jpg)
+![Jokulsargljufur Canyon basalt](../lib/images/europe/iceland-valley-explorer.jpg)
 
 After only 15 minutes on the highway, we turned onto a bridge and crossed the Jokulsargljufur Canyon. Parking the car, we walked along the edge of the canyon on a dirt trail. About a mile into the trail, we were able to climb down into the canyon and view the hexagonal basalt columns from below. These columns form from the rapid cooling of lava, the hexagonal cross-section arising from cracks in the rock as it solidifies from below, where it contacts the earth's crust, and above, where it contacts the atmosphere, eventually meeting in the middle.
 
-![Jokulsargljufur Canyon basalt columns](/images/processed/europe/iceland-basalt-canyon-portrait.jpg)
+![Jokulsargljufur Canyon basalt columns](../lib/images/europe/iceland-basalt-canyon-portrait.jpg)
 
 Water flowing from streams into the canyon carried iron from the soil, staining sections of the columns orange, and copper, giving a greenish-blue hue to the river flowing along the base. Over time, columns touching the river fracture and collapse, leaving behind basalt "stumps" that created an awkward walkway. We jumped from platform to platform, brushing past travelers of all ages.
 

@@ -2,11 +2,11 @@
 title: Backpacking the Grand Canyon
 description: At 2 a.m., Joe woke us to look at the night sky. In that part of the country, where the desert has near zero light pollution, observers can see the Milky Way stretch across the horizon and illuminate the earth.
 date: '2017-08-08'
-image: /images/processed/americas/grand-canyon-inner-canyon.jpg
+image: americas/grand-canyon-inner-canyon.jpg
 published: true
 ---
 
-![Grand Canyon inner canyon](/images/processed/americas/grand-canyon-inner-canyon.jpg)
+![Grand Canyon inner canyon](../lib/images/americas/grand-canyon-inner-canyon.jpg)
 
 Bret and I woke up around 5 a.m., showered, and shoveled a few handfuls of dry Raisin Bran into our mouths. After breakfast, we walked toward the edge of the Grand Canyon to catch the sunrise. As the minutes passed, the sun slowly lifted, casting large shadows deep into the canyon. I felt the warmth spread across my face.
 
@@ -14,7 +14,7 @@ We started walking down the dirt and gravel road to the Ranger Station, where we
 
 Within 20 minutes, we reached the North Kaibab Trailhead. We started down the path, pivoting back-and-forth along the switchbacks. In no time, we came across some beautiful sights: a large slab of rock jutting into the canyon allowed hikers to peer out at the red and orange striations in the canyon walls. Looking out from this platform, I could see the route that we were about to follow to the South Rim.
 
-![Grand Canyon lookout](/images/processed/americas/grand-canyon-lookout.jpg)
+![Grand Canyon lookout](../lib/images/americas/grand-canyon-lookout.jpg)
 
 We continued along the narrow trail, each step sinking deeper into the canyon. After about one mile, we came across two guys, Dan and Joe, at a water fountain and struck up a conversation. Dan and Joe were themselves recent acquaintances who met a few days earlier on another hike. Each was on a solo cross-country journey but decided to add some company. Our brief chat ended with an invitation to hike together and share the campground. With that, our outfit grew to four people, and we continued the hot path toward the first campsite.
 
@@ -40,6 +40,6 @@ Our short chat led to a shared dinner and invitation to hike together the next d
 
 We passed one last campsite on the way out of the canyon, and here we left Mike, Laura, and Shane, who were going to spend another night camping. Back to the original duo for the final push, Bret and I continued climbing the steep switchbacks. As we neared the top, I almost wished we had more time to explore the canyon.
 
-![Grand Canyon](/images/processed/americas/grand-canyon-background.jpg)
+![Grand Canyon](../lib/images/americas/grand-canyon-background.jpg)
 
 Bret and I reached the top, 25 miles from the start of the trail on the North Rim. The distance wasn't much but hiking the Grand Canyon from rim to rim felt impressive. At the end, we could look back and see the curvature of the earth.

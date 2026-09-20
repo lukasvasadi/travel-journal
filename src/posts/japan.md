@@ -2,11 +2,11 @@
 title: Across Japan
 description: From the crest of the mountain, we followed a trail downhill to find a view of Fuji. Fog consumed the mountain and obfuscated our vision. Then, at one moment, sun rays penetrated the fog, casting bands of yellow light onto the path, and bells started ringing in the distance.
 date: '2025-05-30'
-image: /images/processed/asia/tori-gate.jpg
+image: asia/tori-gate.jpg
 published: true
 ---
 
-![Grand Canyon inner canyon](/images/processed/asia/tori-gate.jpg)
+![Grand Canyon inner canyon](../lib/images/asia/tori-gate.jpg)
 
 ## Kusatsu, Gunma Prefecture
 

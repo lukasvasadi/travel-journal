@@ -2,11 +2,11 @@
 title: Returning to England
 description: As we walked across Cambridge, stopping at old familiar sights, I relived many memories and realized that I had changed as much, if not more, than the city.
 date: '2025-06-24'
-image: /images/processed/europe/regents-canal.jpg
+image: europe/regents-canal.jpg
 published: false
 ---
 
-![House boat on Regent’s Canal](/images/processed/europe/regents-canal.jpg)
+![House boat on Regent’s Canal](../lib/images/europe/regents-canal.jpg)
 
 ## Kensington, London
 

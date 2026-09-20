@@ -1,13 +1,14 @@
 <script lang="ts">
 	import { formatDate } from '$lib/utils'
 	import * as config from '$lib/config'
+	import ogImage from '$lib/images/europe/venice-canal.jpg?url'
 
 	export let data
 </script>
 
 <svelte:head>
 	<title>{config.title}</title>
-	<meta property="og:image" content={'/images/processed/europe/venice-canal.jpg'} />
+	<meta property="og:image" content={ogImage} />
 </svelte:head>
 
 <!-- Posts -->

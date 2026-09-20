@@ -4,11 +4,11 @@ description: When searching for local nightlife, one of the first results was an
   upper class swinger party about a mile away. The advertisement was a
   picture of a discarded mask lying on the ground.
 date: '2018-01-21'
-image: /images/processed/europe/paris-louvre.jpg
+image: europe/paris-louvre.jpg
 published: true
 ---
 
-![Paris Louvre](/images/processed/europe/paris-louvre.jpg)
+![Paris Louvre](../lib/images/europe/paris-louvre.jpg)
 
 Bri saw me step onto the school bus for the first time in kindergarten, circa 2000. Over the years, our families became close, and I spent many evenings at her house playing video games and eating pizza. We lost touch after I left for college, but chance brought us together during summer.
 
@@ -30,7 +30,7 @@ By the time we reached the bars, we sobered up enough to realize that we had stu
 
 I ordered two shots of tequila. The barman turned around, grabbed two tall shot glasses, and placed them on the bar in front of us. He then reached underneath the bar for the tequila and proceeded to pour two double shots that nearly spilled over onto the wood. Just as he finished, someone next to us distracted him with another order. Bri and I looked at the shots, then at each other. Without a word exchanged, we turned around and walked away, knowing that those tequilas would cause a disastrous end to the night. We felt a little guilty for ditching the drinks, but I knew our guilt would have been much worse the next morning.
 
-![Paris Eiffel Tower](/images/processed/europe/paris-eiffel-tower.jpg)
+![Paris Eiffel Tower](../lib/images/europe/paris-eiffel-tower.jpg)
 
 In the morning, we walked around the Eiffel Tower and had breakfast at a nearby cafe. Then, we walked along the Seine toward Notre Dame—this was a year before the major church fire. Notre Dame was imposing with its gothic architecture. Outside the entrance were various statues, street artists, panhandlers, and hundreds of pigeons. Despite being January, it was sunny and warm at around 65F(18C). As we crossed one of the bridges near the church, I looked out over the river and scanned the city. It seemed that the entire city was outside, enjoying the sun, chatting over coffees, sifting through secondhand books at small bookstands along the pavement. What were we doing in the States?
 

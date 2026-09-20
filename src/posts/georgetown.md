@@ -2,11 +2,11 @@
 title: Georgetown With Mum
 description: About a month ago, my mom and I decided to do a trip to celebrate my leaving for England. We chose D.C. and Georgetown because of our shared interest in history.
 date: '2017-09-24'
-image: /images/processed/americas/georgetown-houses-720.jpg
+image: americas/georgetown-houses.jpg
 published: true
 ---
 
-![Lake Bled, Slovenia](/images/processed/americas/georgetown-houses-720.jpg)
+![Lake Bled, Slovenia](../lib/images/americas/georgetown-houses.jpg)
 
 We arrived in Georgetown to the Airbnb—a brownstone with bookcases
 covering every wall—located about four blocks from the Potomac

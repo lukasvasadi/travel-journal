@@ -5,11 +5,11 @@ description: We stuffed our panniers with spare clothes, snacks, and camping
   started for the train station, winding through the narrow,
   brick-paved streets of Cambridge, England.
 date: '2023-01-01'
-image: /images/processed/europe/slovenia-lake-bled-720.jpg
+image: europe/slovenia-lake-bled.jpg
 published: true
 ---
 
-![Lake Bled, Slovenia](/images/processed/europe/slovenia-lake-bled-720.jpg)
+![Lake Bled, Slovenia](../lib/images/europe/slovenia-lake-bled.jpg)
 
 ## England
 
