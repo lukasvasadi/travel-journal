@@ -57,6 +57,7 @@ h4,
 h5,
 h6 {
 	font-family: var(--font-family-sans-heading), sans-serif;
+	line-height: 1.2;
 }
 
 /* Disable grey box on click in mobile browsers */
