@@ -44,9 +44,9 @@ Bret pulled into a small nearby lot, which was starting to fill with cars facing
 
 Bret and Shantanu agreed, and we were the only car to exit the lot headed north on the ring road. Moments later, the highway patrolman stepped out of his van and spread a roadblock across the highway entrance. We were committed.
 
-Bret drove cautiously. We were the only vehicle on the road for as far as the eye could see. To our left was the a mountain ridge that ran parallel to the coast; to our right, the ocean. Every few miles, we came across a short one-lane bridge that crossed a small river leading into the sea. Each time, Bret slowed to the entrance and creeped along at about 15 mph. We all sat in silence listening to the wind, waiting for a sudden gush that would tip the Explorer over the rail.
+Bret drove cautiously. We were the only vehicle on the road for as far as the eye could see. To our left was a mountain ridge that ran parallel to the coast; to our right, the ocean. Every few miles, we came across a short one-lane bridge that crossed a small river leading into the sea. Each time, Bret slowed to the entrance and creeped along at about 15 mph. We all sat in silence listening to the wind, waiting for a sudden gush that would tip the Explorer over the rail.
 
-With the strong gusts, we felt and heard the roof of the Explorer deform. As expected, the wind was catching the underside of the flat tent container, stressing the sports rack that was bolted to the vehicle. At one instance, the popping sound was so aggressive that we feared part of the rack had, infact, separated. Bret pulled off to the side for an inspection.
+With the strong gusts, we felt and heard the roof of the Explorer deform. As expected, the wind was catching the underside of the flat tent container, stressing the sports rack that was bolted to the vehicle. At one instance, the popping sound was so aggressive that we feared part of the rack had, in fact, separated. Bret pulled off to the side for an inspection.
 
 Fortunately, the sport rack and tent remained firmly attached. Bret and I swapped drivers, and I continued along the ring road for another half-hour before turning left into the mountains.
 
@@ -62,7 +62,7 @@ The Explorer bobbed up and down as we crossed large stones and potholes. After a
 
 "Now we know why one of the entrances was blocked," said Bret.
 
-I stared ahead at the obstacles. From the driver's seat, Shantanu asked if the Explorer was able handle that terrain. None of us knew for sure.
+I stared ahead at the obstacles. From the driver's seat, Shantanu asked if the Explorer was able to handle that terrain. None of us knew for sure.
 
 "Our only options are to cross the creek or return the way we came," said Bret after a few moments of silence.
 
@@ -70,7 +70,7 @@ I glanced over at the fuel gauge, which indicated less than a quarter of a tank.
 
 Shantanu switched with me as the driver. He went around to the passenger's seat, while Bret ran ahead to inspect the ramp. I put the Explorer—an automatic vehicle—into first gear for maximum torque. Then I drove forward through a muddy section preceding the stream. Hesitating, the wheels lost traction and started spinning in the soft earth, sinking the heavy vehicle.
 
-Bret and Shantanu went to the back of the SUV to push, while I bottomed out the accelerator. The Explorer learched forward out of the mud. Now feet away from the stream and rock slide, I paused for a moment to visualize the path. Bret ran to the bridge and indicated the direction with the lowest gradient. With a deep breath, I accelerated through the stream and climbed the loose rocks. As soon as I felt the front wheels bounce onto the top of the bridge, I knew we were going to make it.
+Bret and Shantanu went to the back of the SUV to push, while I bottomed out the accelerator. The Explorer lurched forward out of the mud. Now feet away from the stream and rock slide, I paused for a moment to visualize the path. Bret ran to the bridge and indicated the direction with the lowest gradient. With a deep breath, I accelerated through the stream and climbed the loose rocks. As soon as I felt the front wheels bounce onto the top of the bridge, I knew we were going to make it.
 
 I looked back in the side mirror and saw Bret and Shantanu celebrating. They jogged to the car and we continued along the flat dirt road till we reached the terminus and found a paved highway.
 
@@ -82,7 +82,7 @@ After only 15 minutes on the highway, we turned onto a bridge and crossed the J�
 
 Water flowing from streams into the canyon carried iron from the soil, staining sections of the columns orange, and copper, giving a greenish-blue hue to the river flowing along the base. Over time, columns touching the river fracture and collapse, leaving behind basalt "stumps" that created an awkward walkway. We jumped from platform to platform, brushing past travelers of all ages.
 
-From Jökulsárgljúfur, we continued on the ring road another hour to the nearby town of Reykjahlíð, situated alongisde the volcanic lake Mývatn. Surrounding the lake are heated lagoons, geisers, fumaroles—natural vents that release volcanic gases and vapors—and boiling mud spots. Situated on the lakefront was the Vogafjós Farm Resort, a farm-to-table restaurant with outstanding food. The restaurant procured lamb from local shepherds, sourced local vegetables, and produced their own cheeses from cows housed behind the dining facility. We feasted on tender lamb shanks, then went to pet the cows before dusk.
+From Jökulsárgljúfur, we continued on the ring road another hour to the nearby town of Reykjahlíð, situated alongside the volcanic lake Mývatn. Surrounding the lake are heated lagoons, geysers, fumaroles—natural vents that release volcanic gases and vapors—and boiling mud spots. Situated on the lakefront was the Vogafjós Farm Resort, a farm-to-table restaurant with outstanding food. The restaurant procured lamb from local shepherds, sourced local vegetables, and produced their own cheeses from cows housed behind the dining facility. We feasted on tender lamb shanks, then went to pet the cows before dusk.
 
 Down the road from the restaurant was a campground with a pizza cafe called Daddi's. At 10 p.m., the cafe was filled with travelers from every corner of the world. We ordered a small pizza to share, then took turns showering in the mobile water closet. In the morning, we drove over to Hverfjall, an extinct volcano on the edge of town. It only took 20 minutes to climb the ashy trail to the crater, which easily spanned a half-mile in diameter.
 
@@ -94,7 +94,7 @@ Back on the road, we drove west to one of the largest cities in northern Iceland
 
 She also commented on American travelers: "You Americans are never prepared for the weather. Every American we've met has been wearing jeans and summer clothes."
 
-From Akureyri, we sped through the mountains to the western coast, where we stopped at Hvammsvik hot springs, about an hour due north of Reykjavík. This spa was built on the Atlanic coast, hosting several pools of varying temperature. One of these pools was placed a few feet from the ocean waters, and presumably becomes engulfed during high tide. The temperature of the water inside this pool matched the ocean temperature—it was an all-natural Danish plunge.
+From Akureyri, we sped through the mountains to the western coast, where we stopped at Hvammsvik hot springs, about an hour due north of Reykjavík. This spa was built on the Atlantic coast, hosting several pools of varying temperature. One of these pools was placed a few feet from the ocean waters, and presumably becomes engulfed during high tide. The temperature of the water inside this pool matched the ocean temperature—it was an all-natural Danish plunge.
 
 As the sky grew dark grey and started to drizzle, Bret, Shantanu, and I submerged in the steaming waters.
 
@@ -104,4 +104,4 @@ As the sky grew dark grey and started to drizzle, Bret, Shantanu, and I submerge
 
 "I don't think you will once you feel the temperature," he challenged.
 
-In response, I lifted myself from the spring and stepped over the stone wall. I gingerly walked across the rocky beach to the water's edge and slowly walked into the ocean. Once my body was half-submerged, I looked back to see Bret and Shantanu on the shore, then turned to face the empty Atlantic. Only a few hudred miles ahead was the icy shores of Greenland. With a deep breath, I dove into the water. When I resurfaced, I saw Bret and Shantanu wading into the ocean in the distance.
+In response, I lifted myself from the spring and stepped over the stone wall. I gingerly walked across the rocky beach to the water's edge and slowly walked into the ocean. Once my body was half-submerged, I looked back to see Bret and Shantanu on the shore, then turned to face the empty Atlantic. Only a few hundred miles ahead was the icy shores of Greenland. With a deep breath, I dove into the water. When I resurfaced, I saw Bret and Shantanu wading into the ocean in the distance.

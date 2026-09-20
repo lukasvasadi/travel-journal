@@ -10,7 +10,7 @@ published: false
 
 Last week, I boarded a plane to Barcelona to visit a woman I'd met three months ago at a conference in Budapest. My flight was delayed because Donald Trump had been touring the UK and departed from the same airport, Stanstead, for a flight to Scotland. Despite the late arrival, Denise waited patiently to surprise me at the gate. But being in a hurry to find a taxi, I walked straight past her for the exit. An unexpected tug at my shirt caused me to stop and turn around.
 
-D. and I taxied to her apartment, had a quick snack of bread and Nutella, and crashed. In the morning, we walked through the city to a café called Brunch and Cake, passing several famous, and ostentatious, Goudi buildings. The architecture was interesting, but not so much as the enthusiasm that sprung across D.'s face whenever pointing out a new landmark. She described each design as if she were a historian.
+D. and I taxied to her apartment, had a quick snack of bread and Nutella, and crashed. In the morning, we walked through the city to a café called Brunch and Cake, passing several famous, and ostentatious, Gaudí buildings. The architecture was interesting, but not so much as the enthusiasm that sprung across D.'s face whenever pointing out a new landmark. She described each design as if she were a historian.
 
 We shared a salmon salad, pumpkin burger, and health smoothies. Occasionally, I slipped pieces of bread to the squadron of pigeons amassing under the table. After breakfast, we slowly made our way to _el Arco de Triunfo_ and the nearby statue of Apollo presiding over a fountain. We continued to _el Parque de la Ciutadella_, stopped for a moment to inspect a large elephant statue, and found a stretch of grass to nap.
 
@@ -18,7 +18,7 @@ Walking through _el Barrio Gótico_—the gothic section—we found the harbor a
 
 I was not dressed for such a date. My tank top and shorts clashed with the formality of the waiter, who presented us with an entire cart of freshly caught fish. We declined the fish, but not the sangria, and ordered two servings of shrimp paella. After dinner, we brought our wine glasses out to the patio to watch the sun set over the bay full of yachts and dinghies.
 
-I made pancakes the next morning while D. packed for the trip. We ate on the slanted rooftop of her apartment, overlooking the neighborhood with a web of clothes lines spread across the buildings. With the small five-speed rental car, we drove east to the ocean, then turned a sharp left north. Our first stop was the _Tossa del Mar_, a small costal municipality with a castle that sat on a hill over the shore.
+I made pancakes the next morning while D. packed for the trip. We ate on the slanted rooftop of her apartment, overlooking the neighborhood with a web of clothes lines spread across the buildings. With the small five-speed rental car, we drove east to the ocean, then turned a sharp left north. Our first stop was the _Tossa del Mar_, a small coastal municipality with a castle that sat on a hill over the shore.
 
 Upon climbing the hill, we discovered a hidden network of walkways and shops. We entered one of the cafés and sat outside under a canopy of grape vines. There was no rush, no plan, no one else waiting for us, no commitment of any kind. We sat for two hours eating and drinking sangria. D. was familiar with the variety of Spanish tapas and translated each dish—pa amb tomaquet, tortilla de patatas, patatas bravas amb salsa romesco, anxovas amb oli d'oliva—between bites.
 

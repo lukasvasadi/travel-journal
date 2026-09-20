@@ -24,7 +24,7 @@ It took about 10 minutes for our third driver, Grant, to pull off to the side of
 
 The next ride required patience. Just when I started to doubt, a white pickup pulled off to the side. We were surprised to see a lone woman, Michelle, as the driver. Michelle was a native Arizonan.
 
-"Where ya from?' she asked.
+"Where ya from?" she asked.
 
 "New York," I responded.
 
@@ -37,7 +37,7 @@ Coast in Atlanta."
 
 Bret and I exchanged quick glances.
 
-We drove us another 1.5 hours to an intersection in a ghost town with one rundown motel and a dollar store. Bret and I stood at that intersection, snacking on beef jerky and watching cars and tractor trailers pass, for a good while.
+We drove another 1.5 hours to an intersection in a ghost town with one rundown motel and a dollar store. Bret and I stood at that intersection, snacking on beef jerky and watching cars and tractor trailers pass, for a good while.
 
 Eventually, a blue minivan pulled over and a couple stepped out to rearrange their trunk for our gear. They were a French couple touring the US. The woman barely spoke English but asked us a few questions. We learned that she was a ski instructor in the French Alps, while her husband worked as a research technician for the GE wind turbine division. Fortunately, since they were also heading to the Grand Canyon, we were able to get a ride to the ranger information booth at the park entrance. At this time, the sun was starting to set, and the temperature was dropping quickly. Bret and I said our goodbyes and continued walking on the road to the Grand Canyon North Rim Lodge, where we planned to spend the night.
 

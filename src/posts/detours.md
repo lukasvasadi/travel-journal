@@ -63,7 +63,7 @@ against the side of the tent, brushing up against my face.
 “No, it felt like the snout of some animal.”
 
 After several minutes of quiet, we both fell back asleep. Then,
-abruptly, Bret startles and sits up in his sleeping bag.
+abruptly, Bret startled and sat up in his sleeping bag.
 
 “Luke, the dog's back. I just felt him push against my side of the
 tent.”
@@ -76,8 +76,7 @@ Dover, though, the roads became increasingly steeper. Was this still
 England, I wondered? The rain got heavier. Still England.
 
 Before boarding the ferry, we chained our bikes and climbed the
-cliffs to look out across the Channel. stopped to look out over the
-English Channel from the cliffs, then road our bikes to the loading
+cliffs to look out across the Channel. Then we rode our bikes to the loading
 dock, presented our passports, and boarded the ferry. In no time,
 both of us fell asleep at the front of the ship looking out toward
 France. One day into the trip and already we were exhausted.
@@ -432,7 +431,7 @@ were around the area of the nature reserve, most of the land was
 open fields with small patches of trees that were densely populated
 with bushes. Maybe we had built up a sense of confidence, but we
 were no longer concerned about angry Europeans attacking us in the
-night. We road over to the end of one of the fields and set up the
+night. We rode over to the end of one of the fields and set up the
 tent alongside a row of trees. People who were walking their dogs on
 the path looked over to stare at us.
 
@@ -581,7 +580,7 @@ We cycled to the nearest train station and boarded a train to
 Offenburg, Germany. From there, we cycled to the Schloss Ortenberg
 hostel in the neighboring town. The hostel was a converted castle
 that stood on a mountain overlooking the Black Forest. The slope of
-the mountain was covered in grape vines. Bret stayed with out gear
+the mountain was covered in grape vines. Bret stayed with our gear
 while I went inside to check in. When I returned, Bret was chatting
 up a girl on the lookout.
 

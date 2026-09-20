@@ -20,7 +20,7 @@ Michelle and I were rushed to our first _kaiseki_ dinner, a multi-course meal co
 
 She was young and spoke perfect English in a soft and delicate voice—we figured she was assigned to us for her language skills. Each word was chosen carefully and articulated at a gentle pace. Her favorite adjective was “little,” which she sprinkled across her descriptions of the plate ingredients and inspirations. Maybe it was the novelty of our first night in Japan, or the contrast with the inflight food from United, but we savored every bite of that first kaiseki.
 
-After dinner, we returned to our room and found two soft-cushioned futon mattresses sprawled across the spacious _tatami_ mat. The feet of the mattresses faced the large window that enshrined the garden. It had started to the rain, and we heard the thudding of the drops on the ground and against the glass. Before retiring, we walked through the bathroom, myself ducking through each doorway, to our private onsen enclosed in an all-wood bathhouse.
+After dinner, we returned to our room and found two soft-cushioned futon mattresses sprawled across the spacious _tatami_ mat. The feet of the mattresses faced the large window that enshrined the garden. It had started to rain, and we heard the thudding of the drops on the ground and against the glass. Before retiring, we walked through the bathroom, myself ducking through each doorway, to our private onsen enclosed in an all-wood bathhouse.
 
 The bath itself was a small wooden basin with a spout that poured steaming hot water into one side. The basin had no drain—instead, overflowing water spilled onto the hardwood floor and collected underneath the building in a runoff. I stepped into the bath and slowly lowered my body, crouching my legs to fit the cramped dimensions, displacing large amounts of water. Michelle kneeled down next to me, and between the two of us, we barely managed to squeeze into the basin.
 
@@ -106,7 +106,7 @@ We learned that the Brit, Duncan, was an artist who moved to Japan because his w
 
 Ginza was reminiscent of a clean New York: fashionable and polished. Japanese men all wore suits and women wore professional dresses or jumpsuits, with the occasional pedestrian dressed in some hyper modern eclectic style. On the train, people were hushed with many consumed in some phone game.
 
-Before our trip, Michelle and I read Pico Iyer’s “A Beginner’s Guide to Japan,” which is more a social commentary than a literal travel guide. One of the central themes of the book was that the Japan is a land of contradiction. I found this to be an accurate depiction: everyone waited patiently at cross-walks, but businessmen and women would run across the street in suits to beat the light. The Japanese appreciate both a slow-paced kaiseki and a rushed precooked meal from 7-11.
+Before our trip, Michelle and I read Pico Iyer’s “A Beginner’s Guide to Japan,” which is more a social commentary than a literal travel guide. One of the central themes of the book was that Japan is a land of contradiction. I found this to be an accurate depiction: everyone waited patiently at cross-walks, but businessmen and women would run across the street in suits to beat the light. The Japanese appreciate both a slow-paced kaiseki and a rushed precooked meal from 7-11.
 
 Our first evening in Tokyo, I convinced Michelle that we should wander around a neighborhood to find a restaurant with few tourists.
 
