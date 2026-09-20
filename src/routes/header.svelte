@@ -1,10 +1,11 @@
 <script lang="ts">
+	import { resolve } from '$app/paths'
 	import * as config from '$lib/config'
 </script>
 
 <header>
 	<nav>
-		<a href="/">{config.title}</a>
+		<a href={resolve('/')}>{config.title}</a>
 	</nav>
 </header>
 

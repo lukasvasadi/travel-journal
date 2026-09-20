@@ -2,19 +2,17 @@
 	import { formatDate } from '$lib/utils'
 	import * as config from '$lib/config'
 	import ogImage from '$lib/images/europe/venice-canal.jpg?url'
+	import SEO from '$lib/SEO.svelte'
 
 	export let data
 </script>
 
-<svelte:head>
-	<title>{config.title}</title>
-	<meta property="og:image" content={ogImage} />
-</svelte:head>
+<SEO title={config.title} image={ogImage} />
 
 <!-- Posts -->
 <section>
 	<ul class="posts">
-		{#each data.posts as post}
+		{#each data.posts as post (post.slug)}
 			<li class="post">
 				<a href={post.slug} class="title">{post.title}</a>
 				<p class="date">{formatDate(post.date)}</p>

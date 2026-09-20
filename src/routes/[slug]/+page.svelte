@@ -1,16 +1,11 @@
-<script>
+<script lang="ts">
 	import { formatDate } from '$lib/utils'
+	import SEO from '$lib/SEO.svelte'
 
 	export let data
 </script>
 
-<!-- SEO -->
-<svelte:head>
-	<title>{data.meta.title}</title>
-	<meta property="og:type" content="article" />
-	<meta property="og:title" content={data.meta.title} />
-	<meta property="og:image" content={data.meta.image} />
-</svelte:head>
+<SEO title={data.meta.title} image={data.meta.image} type="article" />
 
 <article>
 	<!-- Title -->
