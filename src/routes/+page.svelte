@@ -2,7 +2,7 @@
 	import { formatDate } from '$lib/utils'
 	import * as config from '$lib/config'
 	import ogImage from '$lib/images/europe/venice-canal.jpg?url'
-	import SEO from '$lib/SEO.svelte'
+	import SEO from '$lib/components/SEO.svelte'
 
 	export let data
 </script>

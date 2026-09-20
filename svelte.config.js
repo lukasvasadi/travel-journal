@@ -1,18 +1,16 @@
 import { mdsvex } from 'mdsvex'
 import { vitePreprocess } from '@sveltejs/vite-plugin-svelte'
 import adapter from '@sveltejs/adapter-vercel'
-
-// Markdown enhanced image library @ https://github.com/lzinga/mdsvex-enhanced-images
-import enhancedImage from '@lzinga/mdsvex-enhanced-images'
+import remarkPictureImages from './src/lib/remark-picture-images.js'
 
 /** @type {import('mdsvex').MdsvexOptions} */
 const mdsvexOptions = {
 	extensions: ['.svelte.md', '.md', '.svx'],
 	remarkPlugins: [
 		[
-			enhancedImage,
+			remarkPictureImages,
 			{
-				// Optional: Attributes to add to **all** `img` tags
+				// Attributes to add to every generated <Picture> / <img>
 				attributes: {
 					fetchpriority: 'auto', // Browser's default
 					loading: 'eager', // Browser's default

@@ -1,6 +1,6 @@
 <script lang="ts">
 	import { formatDate } from '$lib/utils'
-	import SEO from '$lib/SEO.svelte'
+	import SEO from '$lib/components/SEO.svelte'
 
 	export let data
 </script>
