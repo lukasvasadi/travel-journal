@@ -6,6 +6,6 @@ image: americas/georgetown-houses.jpg
 published: false
 ---
 
-![Free range chickens](../lib/images/americas/free-range-chickens.jpg)
+![Free-range chickens gathered on a wooden deck](../lib/images/americas/free-range-chickens.jpg)
 
 With Labor Day upcoming, Michelle suggested that we go for a hike in the White Mountains.

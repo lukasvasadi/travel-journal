@@ -6,7 +6,7 @@ image: americas/arizona-hitchhiking.jpg
 published: true
 ---
 
-![Hitchhiking in Arizona](../lib/images/americas/arizona-hitchhiking.jpg)
+![Man holding a sign while hitchhiking along a small-town Arizona road](../lib/images/americas/arizona-hitchhiking.jpg)
 
 When the plans for a friend's bachelor party in Vegas were set, Bret suggested we go early and hitchhike through the Nevada desert to the Grand Canyon.
 

@@ -6,7 +6,7 @@ image: europe/regents-canal.jpg
 published: false
 ---
 
-![House boat on Regent’s Canal](../lib/images/europe/regents-canal.jpg)
+![Narrowboat moored on Regent’s Canal in London](../lib/images/europe/regents-canal.jpg)
 
 ## Kensington, London
 

@@ -9,7 +9,7 @@ image: europe/slovenia-lake-bled.jpg
 published: true
 ---
 
-![Lake Bled, Slovenia](../lib/images/europe/slovenia-lake-bled.jpg)
+![Aerial view of Bled Island's church and buildings on Lake Bled](../lib/images/europe/slovenia-lake-bled.jpg)
 
 ## England
 

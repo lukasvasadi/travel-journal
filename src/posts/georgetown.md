@@ -6,7 +6,7 @@ image: americas/georgetown-houses.jpg
 published: true
 ---
 
-![Lake Bled, Slovenia](../lib/images/americas/georgetown-houses.jpg)
+![Row of colorful historic townhouses in Georgetown](../lib/images/americas/georgetown-houses.jpg)
 
 We arrived in Georgetown to the Airbnb—a brownstone with bookcases
 covering every wall—located about four blocks from the Potomac

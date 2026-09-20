@@ -6,7 +6,7 @@ image: asia/tori-gate.jpg
 published: true
 ---
 
-![Grand Canyon inner canyon](../lib/images/asia/tori-gate.jpg)
+![Red torii gate and stone steps leading to a forest shrine](../lib/images/asia/tori-gate.jpg)
 
 ## Kusatsu, Gunma Prefecture
 

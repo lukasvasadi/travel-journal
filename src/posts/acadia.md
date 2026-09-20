@@ -6,7 +6,7 @@ image: americas/acadia-lighthouse-landscape.jpg
 published: true
 ---
 
-![Lighthouse on Mount Desert Island](../lib/images/americas/acadia-lighthouse-landscape.jpg)
+![White lighthouse and keeper's house atop a rocky coastal bluff](../lib/images/americas/acadia-lighthouse-landscape.jpg)
 
 One day, while standing online at a grocery store, I noticed a Nat Geo article that ranked the best places in the world to visit during each season. As I flipped through the pages, I saw that the first entry listed under “Autumn Excursions” was Acadia National Park, accompanied by a picture of a starlit horizon during the annual Night Sky Festival. That festival was only two weeks away, and Acadia was not too far of a drive from upstate NY.
 

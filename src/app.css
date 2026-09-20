@@ -53,8 +53,9 @@ h6 {
 }
 
 /* Disable grey box on click in mobile browsers */
-a, button {
-    -webkit-tap-highlight-color: transparent;
+a,
+button {
+	-webkit-tap-highlight-color: transparent;
 }
 
 .prose h2 {
@@ -79,6 +80,8 @@ article p:nth-of-type(2):first-letter {
 }
 
 .prose img {
+	width: auto;
+	height: auto;
 	max-width: 100%;
 	max-height: 600px;
 	display: block;

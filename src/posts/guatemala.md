@@ -6,7 +6,7 @@ image: americas/guatemala-acatenango.jpg
 published: true
 ---
 
-![Grand Canyon inner canyon](../lib/images/americas/guatemala-acatenango.jpg)
+![Ash plume rising from an erupting volcano](../lib/images/americas/guatemala-acatenango.jpg)
 
 As soon as we arrived in Guatemala City, Bret and I hired a shuttle van to Antigua. We shared the shuttle with two young Guatemalan women returning from a trip to Florida. About 10 min into the drive, I turned to one of the girls, who were seated behind us, and started a conversation in heavily broken Spanish. We learned that the two women were sisters, one working as a florist and the other as an accountant for a family-owned business.
 
