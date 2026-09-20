@@ -2,11 +2,11 @@
 title: Acadia National Park
 description: Before leaving the States, I decided to do one solo road trip to Maine, stopping at Acadia National Park and Baxter State Park.
 date: '2017-09-24'
-image: americas/acadia-lighthouse-landscape.jpg
+image: americas/acadia-lighthouse-landscape.jpeg
 published: true
 ---
 
-![White lighthouse and keeper's house atop a rocky coastal bluff](../lib/images/americas/acadia-lighthouse-landscape.jpg)
+![White lighthouse and keeper's house atop a rocky coastal bluff](../lib/images/americas/acadia-lighthouse-landscape.jpeg)
 
 One day, while standing online at a grocery store, I noticed a Nat Geo article that ranked the best places in the world to visit during each season. As I flipped through the pages, I saw that the first entry listed under “Autumn Excursions” was Acadia National Park, accompanied by a picture of a starlit horizon during the annual Night Sky Festival. That festival was only two weeks away, and Acadia was not too far of a drive from upstate NY.
 

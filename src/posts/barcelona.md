@@ -2,11 +2,11 @@
 title: La Costa Brava
 description: With the sunrise, we wandered out to the shore and climbed a trail on the coastal route, Cami de Ronda, that spans hundreds of miles along the cliffs and cloves of the Mediterranean.
 date: '2018-07-14'
-image: europe/barcelona-vespa.jpg
+image: europe/barcelona-vespa.jpeg
 published: false
 ---
 
-![Couple sitting on a red Vespa outside a rental shop in Barcelona](../lib/images/europe/barcelona-vespa.jpg)
+![Couple sitting on a red Vespa outside a rental shop in Barcelona](../lib/images/europe/barcelona-vespa.jpeg)
 
 Last week, I boarded a plane to Barcelona to visit a woman I'd met three months ago at a conference in Budapest. My flight was delayed because Donald Trump had been touring the UK and departed from the same airport, Stanstead, for a flight to Scotland. Despite the late arrival, Denise waited patiently to surprise me at the gate. But being in a hurry to find a taxi, I walked straight past her for the exit. An unexpected tug at my shirt caused me to stop and turn around.
 

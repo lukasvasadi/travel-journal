@@ -13,12 +13,12 @@ describe('formatDate', () => {
 
 describe('resolveImage', () => {
 	it('resolves a bundled image path to a URL', () => {
-		const url = resolveImage('europe/iceland.jpg')
+		const url = resolveImage('europe/iceland.jpeg')
 		expect(typeof url).toBe('string')
 		expect(url.length).toBeGreaterThan(0)
 	})
 
 	it('throws for a path with no matching bundled image', () => {
-		expect(() => resolveImage('nowhere/missing.jpg')).toThrow(/Image not found/)
+		expect(() => resolveImage('nowhere/missing.jpeg')).toThrow(/Image not found/)
 	})
 })

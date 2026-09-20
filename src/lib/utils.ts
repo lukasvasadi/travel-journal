@@ -9,7 +9,7 @@ export function formatDate(date: string, dateStyle: DateStyle = 'medium', locale
 
 // Post frontmatter can only store a path string, not an import, so OG image
 // URLs are resolved from the bundled asset at request time via this glob.
-const images = import.meta.glob('/src/lib/images/**/*.jpg', {
+const images = import.meta.glob('/src/lib/images/**/*.jpeg', {
 	eager: true,
 	query: '?url',
 	import: 'default'

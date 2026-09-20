@@ -2,11 +2,11 @@
 title: Hitchhiking Out West
 description: “Don't expect our first ride to be a ‘Beamer, Benz, or Bentley,'” said Bret. Five minutes later, a brand-new Mercedes Benz pulled onto the shoulder. Our first ride.
 date: '2017-08-14'
-image: americas/arizona-hitchhiking.jpg
+image: americas/arizona-hitchhiking.jpeg
 published: true
 ---
 
-![Man holding a sign while hitchhiking along a small-town Arizona road](../lib/images/americas/arizona-hitchhiking.jpg)
+![Man holding a sign while hitchhiking along a small-town Arizona road](../lib/images/americas/arizona-hitchhiking.jpeg)
 
 When the plans for a friend's bachelor party in Vegas were set, Bret suggested we go early and hitchhike through the Nevada desert to the Grand Canyon.
 

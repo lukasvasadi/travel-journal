@@ -2,11 +2,11 @@
 title: Mount Katahdin and The Knife's Edge
 description: “Did you know this is moose country?” she said. “Drivers get stuck behind 'em on the road, but we haven't seen many this year because of the logging. This camp sits on the edge of the park, and on the other side is paper country.”
 date: '2017-10-15'
-image: americas/baxter-knifes-edge.jpg
+image: americas/baxter-knifes-edge.jpeg
 published: true
 ---
 
-![The Knife's Edge ridgeline](../lib/images/americas/baxter-knifes-edge.jpg)
+![The Knife's Edge ridgeline](../lib/images/americas/baxter-knifes-edge.jpeg)
 
 When planning my trip to Acadia, it occurred to me that Maine was also the state where the Appalachian Trail (AT) ended. The AT had always been special to my family: I spent many weekends exploring segments with my dad and, when he was a kid, his father had owned a small vacation property along the trail in the mountains. Summer evenings were spent around campfires and sleeping inside a small hut that my grandfather had built from nearby stones. According to my dad, it was where my grandfather was happiest.
 

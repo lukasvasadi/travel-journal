@@ -2,11 +2,11 @@
 title: Guatemala
 description: Suddenly, we heard a boom and felt the ground shake. Here I was, squatting in the dark, cold and miserable, but the humor wasn't lost on me. I yelled to Bret, “Looks like we got two eruptions at the same time!”
 date: '2022-06-04'
-image: americas/guatemala-acatenango.jpg
+image: americas/guatemala-acatenango.jpeg
 published: true
 ---
 
-![Ash plume rising from an erupting volcano](../lib/images/americas/guatemala-acatenango.jpg)
+![Ash plume rising from an erupting volcano](../lib/images/americas/guatemala-acatenango.jpeg)
 
 As soon as we arrived in Guatemala City, Bret and I hired a shuttle van to Antigua. We shared the shuttle with two young Guatemalan women returning from a trip to Florida. About 10 min into the drive, I turned to one of the girls, who were seated behind us, and started a conversation in heavily broken Spanish. We learned that the two women were sisters, one working as a florist and the other as an accountant for a family-owned business.
 
