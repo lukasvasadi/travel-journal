@@ -5,7 +5,7 @@ import remarkPictureImages from './src/lib/remark-picture-images.js'
 
 /** @type {import('mdsvex').MdsvexOptions} */
 const mdsvexOptions = {
-	extensions: ['.svelte.md', '.md', '.svx'],
+	extensions: ['.md'],
 	remarkPlugins: [
 		[
 			remarkPictureImages,
@@ -23,7 +23,7 @@ const mdsvexOptions = {
 
 /** @type {import('@sveltejs/kit').Config} */
 const config = {
-	extensions: ['.svelte', '.svx', '.md'],
+	extensions: ['.svelte', '.md'],
 	preprocess: [vitePreprocess(), mdsvex(mdsvexOptions)],
 	kit: { adapter: adapter() }
 }
