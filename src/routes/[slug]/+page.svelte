@@ -42,7 +42,7 @@
 		}
 
 		article {
-			max-inline-size: 700px;
+			max-inline-size: 660px;
 		}
 	}
 </style>
