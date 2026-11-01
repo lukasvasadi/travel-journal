@@ -36,7 +36,7 @@
 		margin-bottom: 2rem;
 		padding-inline: 1rem;
 		background-color: var(--background-color);
-		border-bottom: 2px solid var(--border-color);
+		border-bottom: 1px solid var(--border-color);
 	}
 
 	/* Keyboard focus inside the header brings it back */
@@ -51,7 +51,7 @@
 	}
 
 	nav {
-		padding-block: 2rem;
+		padding-block: 1.25rem;
 		display: flex;
 		flex-direction: row;
 		align-items: center;
@@ -62,5 +62,6 @@
 		color: inherit;
 		text-decoration: none;
 		font-size: 22px;
+		line-height: 1.5;
 	}
 </style>
